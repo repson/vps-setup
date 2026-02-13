@@ -1082,9 +1082,3 @@ For support, additional documentation or questions:
 - Review the [Troubleshooting](#troubleshooting) section first
 - Consult the [FAQ](#faq)
 - Open an issue in the repository
-
----
-
-**Last updated:** 2024
-**Script version:** 2.0.0
-**Compatible with:** Debian 11 (Bullseye), Debian 12 (Bookworm)
